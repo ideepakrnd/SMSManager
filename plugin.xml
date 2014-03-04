@@ -5,7 +5,7 @@
 		version="0.1.0">
     <name>PhoneGap SMS Manager</name>
     <description>Simple Android Based Plugin to send SMS using SMSManager Class.</description>
-    <license>Apache 2.0 license</license>
+    <license>MIT</license>
 	<author>Deepak Kumar Singh</author>
 	<repo>https://github.com/ideepakrnd/SMSManager.git</repo>
     <keywords>PhoneGap, PhoneGap Build, Send SMS, Deepak Kumar Singh</keywords>
